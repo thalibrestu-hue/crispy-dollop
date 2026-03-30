@@ -1,0 +1,20 @@
+/* v.1.css - Styling content */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+header {
+    background: #35424a;
+    color: #ffffff;
+    padding: 10px 0;
+    text-align: center;
+}
+footer {
+    background: #35424a;
+    color: #ffffff;
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
