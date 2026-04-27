@@ -1,0 +1,24 @@
+.sutrisno {
+    color: #2c3e50;
+    font-family: 'Arial', sans-serif;
+    line-height: 1.5;
+}
+
+.sutrisno h1 {
+    font-size: 2.5em;
+    margin-bottom: 0.5em;
+}
+
+.sutrisno p {
+    font-size: 1.2em;
+    margin-bottom: 1em;
+}
+
+.sutrisno a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+.sutrisno a:hover {
+    text-decoration: underline;
+}
